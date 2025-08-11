@@ -1,0 +1,3 @@
+# Archivo: requirements.txt
+streamlit
+groq

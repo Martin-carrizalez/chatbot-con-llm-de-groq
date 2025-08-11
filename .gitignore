@@ -1,0 +1,9 @@
+# Ignorar la carpeta del entorno virtual
+venv/
+
+# Ignorar el archivo de secretos de Streamlit
+.streamlit/secrets.toml
+
+# Ignorar archivos de sistema de Python y VSCode
+__pycache__/
+.vscode/
